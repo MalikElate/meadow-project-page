@@ -1,7 +1,8 @@
 # Meadow project page
 
 This is a public, marketing-only project page for [Meadow](https://findmeadow.com),
-a social media publishing, scheduling, and management service.
+a social publishing workspace that supports direct use, AI agents, API workflows,
+and MCP-connected tools.
 
 The page contains no application source, credentials, private configuration, or
 internal documentation. Product statements and the public flower mark are sourced
